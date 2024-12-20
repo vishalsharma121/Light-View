@@ -1,0 +1,11 @@
+{
+  "global" : false,
+  "content_types" : [ "LANDING_PAGE", "SITE_PAGE", "BLOG_LISTING", "BLOG_POST" ],
+  "master_language" : "en",
+  "categories" : [ "media" ],
+  "icon" : "../mV0_d-web-default-modules_hubspot/img/icon/certification.svg",
+  "host_template_types" : [ "PAGE", "BLOG_LISTING", "BLOG_POST" ],
+  "module_id" : 183717672524,
+  "label" : "CMS tutorial module",
+  "is_available_for_new_content" : true
+}
